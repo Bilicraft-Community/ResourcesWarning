@@ -1,0 +1,5 @@
+name: ResourcesWarning
+version: ${project.version}
+main: com.bilicraft.resourceswarning.ResourcesWarning
+api-version: 1.17
+description: 当玩家试图在资源世界进行永久性建筑时进行警告

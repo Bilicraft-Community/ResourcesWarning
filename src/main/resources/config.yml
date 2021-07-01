@@ -1,0 +1,10 @@
+title: "&c注意"
+subtitle: "&e您当前所处世界会自动刷新"
+chat:
+  - "&e注意！"
+  - "&e&l您看起来正尝试在当前世界建造永久性建筑"
+  - "&c您当前所处的世界将会自动刷新，请不要在此建筑"
+world:
+  - resources
+  - resources_nether
+  - resources_the_end
